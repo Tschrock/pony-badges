@@ -1,6 +1,6 @@
-Pony Badges
-===========
-Add some pony to your badge collection!
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/2406499/57032656-ea740e00-6c18-11e9-9c06-218dcc105fc3.png" /></p>
+<p align="center">Add some pony to your badge collection!</p>
+
 
 ## Static Examples
 
@@ -18,6 +18,8 @@ Add some pony to your badge collection!
 
 ![badge-luna][badge-luna]
 
+(pixel art by [pix3m](https://deviantart.com/pix3m))
+
 ## Animated Examples
 
 ![badge-rainbowdash-gif][badge-rainbowdash-gif]
@@ -27,6 +29,8 @@ Add some pony to your badge collection!
 ![badge-applejack-gif][badge-applejack-gif]
 
 ![badge-fluttershy-gif][badge-fluttershy-gif]
+
+Note: These don't play in some versions of Firefox.
 
 ## How it works
 
